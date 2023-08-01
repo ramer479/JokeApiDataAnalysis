@@ -1,0 +1,10 @@
+name: Raghuram
+base_api_url : "https://v2.jokeapi.dev/joke"
+# Any,Programming,Miscellaneous,Dark,Spooky,Christmas
+category: Programming,Miscellaneous,Dark,Spooky,Christmas
+# en,es
+lang: en
+# single,twopart
+joke_type :
+contains: ""
+amount: 100
